@@ -10,3 +10,10 @@ Ce placer à la racine des dossiers qu'on peut uploader sur github.com : D/B3/_In
 -git remote add origin https://github.com/Alexis777/Tennis.git
 -git pull origin master
 -git push origin master
+
+Pour les autres commit :
+
+-git status	vérifier ce qui a été modifié
+-git commit -m "Premier commit"		commiter le contenu
+-git pull origin master
+-git push origin master

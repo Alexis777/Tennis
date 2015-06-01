@@ -1,0 +1,7 @@
+Appréciation BRULE + PERNIKOSQUI
+
+L'application n'est pas une application maven, le main Tennis.java est vide, il existe également un second package de test contenant un fichier jeu.java vide.
+Le code pourrait être plus épurés, mélange entre le français et l'anglais et choix des joueurs inadaptés.
+Cependant les tests et la syntaxe sont corrects.
+
+Note : 15/20
